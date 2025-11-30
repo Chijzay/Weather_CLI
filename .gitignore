@@ -1,0 +1,39 @@
+# --- Python Cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual Environments ---
+.venv/
+venv/
+env/
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- OS / System Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs & Temp ---
+*.log
+*.tmp
+*.swp
+
+# --- Test / Coverage ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Distribution / Build ---
+build/
+dist/
+*.egg-info/
+
+# --- Local configs ---
+.env
+.env.*

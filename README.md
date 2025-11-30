@@ -28,13 +28,6 @@ python -m venv .venv
 .venv\Scripts\Activate
 ```
 
-Unter macOS oder Linux:
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-```
-
 ## 3. Abhängigkeiten manuell installieren
 
 ```bash
